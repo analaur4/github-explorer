@@ -85,6 +85,7 @@ export const Issues = styled.section`
         align-items: center;
         background-color: #FFF;
         border-radius: 5px;
+        cursor: pointer;
         display: flex;
         padding: 24px;
         position: relative;
